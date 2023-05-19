@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap&subset=latin-ext');
 
+
 * {     
     box-sizing: border-box;
     font-family: 'Open Sans';
@@ -54,7 +55,6 @@ html {
     cursor: pointer;
     text-decoration: none;
 }
-
 
 .links .dwl{
     display: flex; 
@@ -217,6 +217,12 @@ h1{
     height: 40px;
     margin-top: 20px;
 }
+
+.btn-lightbox:hover{
+    background:linear-gradient(35deg, pink, grey, pink);
+    border: 2px grey;
+}
+
 
 #menu-calendar{
     display: flex;
@@ -420,8 +426,9 @@ h1{
 .icons2{
     display:flex;
     justify-content: space-around;
-    padding-top: 50px;
+    padding-top: 50px;  
 }
+
 
 .icons2 span{
     display:flex;
