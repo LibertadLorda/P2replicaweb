@@ -3,7 +3,7 @@
 -->LENGUAJES UTILIZADOS: 
             HTML Y CSS.
 
--->PROGRAMAS UTILIZADOS: 
+-->PROGRAMAS UTILIZADOS: V
             Visual Studio Code.
 
 -->CONTENIDO: 
@@ -15,16 +15,14 @@
 -->FUNCIONAMIENTO: 
             Se trata de una réplica de una página web facilitada por medio de Mockups donde:
 
-            - Colores, iconos y fuente son idénticas a la web.
-            - Código ordenado e indentado.
+            - Colores y fuente son idénticas a la web.
+            - Los iconos si no iguales, son casi idénticos al Mockup.
             - La Navbar es estática, y no se mueve al hacer scroll.
             - Dentro de la Navbar las diferentes secciones son clickables, además del resto de los  botones presentes la web.
             - El botón DOWNLOAD de la Navbar dirige a la web de www.factoriaf5.org al pulsar.
+            - Al pulsar en menú de la navbar en Description te dirige a la sección correspomdiente.
             - En la sección "Mobile app landing page", la imagen del móvil tiene animación, haciéndose más pequeña al pasar por encima.
             - El botón LIGHTBOX del apartado Description, cuenta con efecto BRILLO al situarse en él.
 
 
-
             
-
-
