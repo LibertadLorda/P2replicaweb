@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap&subset=latin-ext');
 
+
 * {     
     box-sizing: border-box;
     font-family: 'Open Sans';
@@ -92,7 +93,7 @@ h1{
 
 .main-btn{
     display: flex;
-    justify-content: center;     
+    justify-content: center;    
 }
 
 .btn-download{ 
@@ -155,7 +156,8 @@ h1{
 }
 
 .icon-container5{
-    padding: 100px;    
+    padding: 100px;
+    
 }
 
 .icons span{
@@ -182,7 +184,8 @@ h1{
 
 .organize-img{
     display: flex;  
-    padding-left: 100px;   
+    padding-left: 100px;
+    
 }
 
 .organize p{
@@ -218,6 +221,7 @@ h1{
     border: 2px grey;
 }
 
+
 #menu-calendar{
     display: flex;
     margin-top: 100px;
@@ -244,7 +248,7 @@ h1{
     font-size: 14px;
     font-weight: bold; 
     width: 120px;
-    height: 30px; 
+    height: 30px;  
 }
 
 .btn-tracking{
@@ -255,7 +259,7 @@ h1{
     font-size: 14px;
     font-weight: bold; 
     width: 120px;
-    height: 30px;    
+    height: 30px;   
 }
 
 .btn-organize{
@@ -446,6 +450,7 @@ h1{
     padding-top: 50px;
     height: 500px; 
 }
+
 
 .linea-footer{
     border-top: 1px solid rgb(178, 178, 178);
