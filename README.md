@@ -3,7 +3,7 @@
 -->LENGUAJES UTILIZADOS: 
             HTML Y CSS.
 
--->PROGRAMAS UTILIZADOS: V
+-->PROGRAMAS UTILIZADOS: 
             Visual Studio Code.
 
 -->CONTENIDO: 
@@ -15,8 +15,8 @@
 -->FUNCIONAMIENTO: 
             Se trata de una réplica de una página web facilitada por medio de Mockups donde:
 
-            - Colores y fuente son idénticas a la web.
-            - Los iconos si no iguales, son casi idénticos al Mockup.
+            - Colores, iconos y fuente son idénticas a la web.
+            - Código ordenado e indentado.
             - La Navbar es estática, y no se mueve al hacer scroll.
             - Dentro de la Navbar las diferentes secciones son clickables, además del resto de los  botones presentes la web.
             - El botón DOWNLOAD de la Navbar dirige a la web de www.factoriaf5.org al pulsar.
