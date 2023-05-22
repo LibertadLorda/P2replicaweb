@@ -3,7 +3,7 @@
 -->LENGUAJES UTILIZADOS: 
             HTML Y CSS.
 
--->PROGRAMAS UTILIZADOS: V
+-->PROGRAMAS UTILIZADOS: 
             Visual Studio Code.
 
 -->CONTENIDO: 
