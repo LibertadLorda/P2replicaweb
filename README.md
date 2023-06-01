@@ -15,8 +15,9 @@
 -->FUNCIONAMIENTO: 
             Se trata de una réplica de una página web facilitada por medio de Mockups donde:
 
-            - Colores, iconos y fuente son idénticas a la web.
+            - Colores y fuente son idénticas a la web.
             - Código ordenado e indentado.
+            - Los iconos si no iguales, son casi idénticos al Mockup.
             - La Navbar es estática, y no se mueve al hacer scroll.
             - Dentro de la Navbar las diferentes secciones son clickables, además del resto de los  botones presentes la web.
             - El botón DOWNLOAD de la Navbar dirige a la web de www.factoriaf5.org al pulsar.
